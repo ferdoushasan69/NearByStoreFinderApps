@@ -21,4 +21,6 @@ Hilt for dependency injection
 
 Clean Architecture + MVVM
 
+ConstraintLayout for Responsive Ui
+
 StateFlow + ViewModel for reactive state management
